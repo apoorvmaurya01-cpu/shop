@@ -195,7 +195,7 @@ export default function Contact() {
           <p className="text-center text-gray-600 mb-8">Located in the heart of Chowk, Lucknow</p>
           <div className="rounded-2xl overflow-hidden shadow-lg h-96 bg-gray-200">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3560.5387748649744!2d80.94606!3d26.846363!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399bfb1b1b1b1b1d%3A0x1b1b1b1b1b1b1b1b!2sChowk%2C%20Lucknow!5e0!3m2!1sen!2sin!4v1234567890"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d113932.36403919292!2d80.77658841615462!3d26.82766053675147!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399bfde5818d10ab%3A0xf06736dda77e6359!2z4KS24KWN4KSw4KWAIOCkquCljeCksOClh-CkriDgpK7gpL_gpLfgpY3gpJ_gpL7gpKjgpY3gpKgg4KSt4KSC4KSh4KS-4KSw!5e0!3m2!1sen!2sin!4v1774938632691!5m2!1sen!2sin"
               width="100%"
               height="100%"
               style={{ border: 0 }}
